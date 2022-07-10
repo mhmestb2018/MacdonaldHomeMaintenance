@@ -5,6 +5,8 @@ admin_path: https://www.hiredreviews.com/admin_logo
 webhook_url: admin_logo
 sections:
 - type: heading
+  label: Mhm Sidebar
+- type: heading
   label: Blog Post
 - type: directory
   path: exampleSite/content/english/blog
