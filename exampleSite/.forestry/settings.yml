@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: https://www.hiredreviews.com/admin
-webhook_url: 
+admin_path: https://www.hiredreviews.com/admin_logo
+webhook_url: admin_logo
 sections:
 - type: heading
   label: Blog Post
